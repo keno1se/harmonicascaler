@@ -1,0 +1,110 @@
+{
+  "configVersion": 1,
+  "timestamp": 1568047167871,
+  "index": "https://keno1se.github.io/hsPWA/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://keno1se.github.io/hsPWA/favicon.ico",
+        "https://keno1se.github.io/hsPWA/index.html",
+        "https://keno1se.github.io/hsPWA/main-es2015.a54a4e302e6c5f9e78ce.js",
+        "https://keno1se.github.io/hsPWA/main-es5.fadfc38bd038ba2722da.js",
+        "https://keno1se.github.io/hsPWA/polyfills-es2015.17f81c44c89a5ccb6fd3.js",
+        "https://keno1se.github.io/hsPWA/polyfills-es5.2795b5d49dcb8251b09a.js",
+        "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js",
+        "https://keno1se.github.io/hsPWA/runtime-es5.741402d1d47331ce975c.js",
+        "https://keno1se.github.io/hsPWA/styles.89ed2bc2c00a475f0d36.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-192x192.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-512x512.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/apple-touch-icon.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/favicon-16x16.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/favicon-32x32.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-128x128.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-144x144.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-152x152.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-192x192.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-384x384.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-512x512.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-72x72.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-96x96.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/mstile-150x150.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/safari-pinned-tab.svg",
+        "https://keno1se.github.io/hsPWA/assets/img/HLOnOffH300V335.png",
+        "https://keno1se.github.io/hsPWA/assets/img/SB0011orgsize.png",
+        "https://keno1se.github.io/hsPWA/assets/img/ceno000.png",
+        "https://keno1se.github.io/hsPWA/assets/img/initBuildScaleCH300V347.png",
+        "https://keno1se.github.io/hsPWA/assets/img/posSelectedH300V305.png",
+        "https://keno1se.github.io/hsPWA/assets/img/posposH300V300.png",
+        "https://keno1se.github.io/hsPWA/assets/img/scaleSelectedH300V320.png",
+        "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png",
+        "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-192x192.png": "8daf0afaf73ae25e99df20fbe5e220585005a58b",
+    "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-512x512.png": "5f819fce53ed73f8dec4b0441d54677f00ad1b72",
+    "https://keno1se.github.io/hsPWA/assets/icons/apple-touch-icon.png": "84cb19b395c9600bc6e9926d88e898a72f0e21ce",
+    "https://keno1se.github.io/hsPWA/assets/icons/favicon-16x16.png": "08d2f211b2622e8fcabe772b02a71108da1c9257",
+    "https://keno1se.github.io/hsPWA/assets/icons/favicon-32x32.png": "770afe6226ec772fa29f63b81333d01911e4b9d9",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-128x128.png": "cad0cd91524147920a676d43a27469f162066e3f",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-144x144.png": "b4cc577c56c2ceca48f7af436a2011ee4cd61e0c",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-152x152.png": "db0d2da49c855a6a861c0a8ddaa5285af0552780",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-192x192.png": "4ffdcd314f69547f8a41fa7d617734f3a2eecb2b",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-384x384.png": "22aeb51c87d6a079d12405134ab118f72fef14f1",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-512x512.png": "39519c5ac71ea5c6ef3550f3a953616b47f68ad8",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-72x72.png": "8dee0e0886f070e4812193c2b8a8356fef24e353",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-96x96.png": "42136b0346c5ce7c05da24405428d5d12125d508",
+    "https://keno1se.github.io/hsPWA/assets/icons/mstile-150x150.png": "548a1f6df95516ee555279effab6e0a39a13915c",
+    "https://keno1se.github.io/hsPWA/assets/icons/safari-pinned-tab.svg": "0e6e5a9a425db91be4cb40ecfa215f69d1888f5e",
+    "https://keno1se.github.io/hsPWA/assets/img/HLOnOffH300V335.png": "66c59828007ac5586f821b13f87447d3715d134b",
+    "https://keno1se.github.io/hsPWA/assets/img/SB0011orgsize.png": "9a34a008c01172c89dfa9b67b5b9676c93c09f0e",
+    "https://keno1se.github.io/hsPWA/assets/img/ceno000.png": "fa7d003cd244aa7583a580e29145bb489e33862d",
+    "https://keno1se.github.io/hsPWA/assets/img/initBuildScaleCH300V347.png": "ffd21ac4f7d77ada41c4b8f23fe1a8c1dff32298",
+    "https://keno1se.github.io/hsPWA/assets/img/posSelectedH300V305.png": "6e843c86cf28b5d6b723c4a34195b01be3f3d8a5",
+    "https://keno1se.github.io/hsPWA/assets/img/posposH300V300.png": "1f8b78966202c8ec95bac329592b89cadfa130ba",
+    "https://keno1se.github.io/hsPWA/assets/img/scaleSelectedH300V320.png": "0d60c910533733a0a7b63be79c2812fdf9508f48",
+    "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png": "bc4c67a7e63448f81e755040f06fa673a1078ae2",
+    "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png": "238dac1ff27e4ed884072dbc49a1655b46b7542e",
+    "https://keno1se.github.io/hsPWA/favicon.ico": "49b45429289064f2436fbc584462b04fac769369",
+    "https://keno1se.github.io/hsPWA/index.html": "6bf25f893793dbdb34fdb8cc38b098430e1fcc97",
+    "https://keno1se.github.io/hsPWA/main-es2015.a54a4e302e6c5f9e78ce.js": "4b78e1f04ddf912de06febf2d85464bfb2089d0e",
+    "https://keno1se.github.io/hsPWA/main-es5.fadfc38bd038ba2722da.js": "54aefdbabff8dcb48565163beea962850d0d15ba",
+    "https://keno1se.github.io/hsPWA/polyfills-es2015.17f81c44c89a5ccb6fd3.js": "4578bb107ec3b89d39eb3e9800266ebf8cda1f62",
+    "https://keno1se.github.io/hsPWA/polyfills-es5.2795b5d49dcb8251b09a.js": "042d7744ef82a64c73310f1db253736731a03950",
+    "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://keno1se.github.io/hsPWA/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://keno1se.github.io/hsPWA/styles.89ed2bc2c00a475f0d36.css": "371027e842a6e2d3ead6f8db418af0163c74fc34"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
