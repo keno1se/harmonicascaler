@@ -1,9 +1,11 @@
 {
   "name": "Harmonicascaler",
   "short_name": "Hscaler",
+  "description": "My hsPWA App",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
+  "orientation": "any",
   "scope": "https://keno1se.github.io/hsPWA/",
   "start_url": "https://keno1se.github.io/hsPWA/",
   "icons": [
