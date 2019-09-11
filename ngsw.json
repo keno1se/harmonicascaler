@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568204706832,
+  "timestamp": 1568209135849,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -53,7 +53,18 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "firstDataGroup",
+      "patterns": [
+        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/(?:.+\\/)?hsPWA\\/(?:.+\\/)?[^/]*\\.jpg"
+      ],
+      "strategy": "performance",
+      "maxSize": 250,
+      "maxAge": 604800000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-192x192.png": "8daf0afaf73ae25e99df20fbe5e220585005a58b",
     "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-512x512.png": "5f819fce53ed73f8dec4b0441d54677f00ad1b72",
