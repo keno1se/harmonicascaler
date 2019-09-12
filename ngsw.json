@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568229312690,
+  "timestamp": 1568265813208,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -61,7 +61,7 @@
     "https://keno1se.github.io/hsPWA/assets/icons/favicon-16x16.png": "08d2f211b2622e8fcabe772b02a71108da1c9257",
     "https://keno1se.github.io/hsPWA/assets/icons/favicon-32x32.png": "770afe6226ec772fa29f63b81333d01911e4b9d9",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-128x128.png": "cad0cd91524147920a676d43a27469f162066e3f",
-    "https://keno1se.github.io/hsPWA/assets/icons/icon-144x144.png": "b4cc577c56c2ceca48f7af436a2011ee4cd61e0c",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-144x144.png": "057fed8555e11c8e0a1904660f4f28a0609b93d3",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-152x152.png": "db0d2da49c855a6a861c0a8ddaa5285af0552780",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-192x192.png": "4ffdcd314f69547f8a41fa7d617734f3a2eecb2b",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-384x384.png": "22aeb51c87d6a079d12405134ab118f72fef14f1",
