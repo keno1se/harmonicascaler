@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568283013238,
+  "timestamp": 1568283722984,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -65,7 +65,7 @@
       ],
       "strategy": "performance",
       "maxSize": 100,
-      "maxAge": 86400000,
+      "maxAge": 3600000,
       "timeoutMs": 10000,
       "version": 1
     }
