@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568265813208,
+  "timestamp": 1568282041928,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -53,7 +53,23 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "PWA",
+      "patterns": [
+        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/main-es2015\\.853589524a036122ee95\\.js",
+        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/runtime-es2015\\.858f8dd898b75fe86926\\.js",
+        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/polyfills-es2015\\.17f81c44c89a5ccb6fd3\\.js",
+        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/styles\\.89ed2bc2c00a475f0d36\\.css",
+        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/assets\\/img\\/SB0011orgsize\\.png"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 86400000,
+      "timeoutMs": 10000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-192x192.png": "8daf0afaf73ae25e99df20fbe5e220585005a58b",
     "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-512x512.png": "5f819fce53ed73f8dec4b0441d54677f00ad1b72",
