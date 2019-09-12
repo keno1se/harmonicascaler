@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568285834777,
+  "timestamp": 1568286368546,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -57,7 +57,7 @@
     {
       "name": "PWA",
       "patterns": [
-        "\\/hsPWA\\/"
+        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/(?:.+\\/)?hsPWA\\/.*"
       ],
       "strategy": "performance",
       "maxSize": 100,
