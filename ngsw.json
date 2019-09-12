@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568285100848,
+  "timestamp": 1568285834777,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -31,6 +31,7 @@
         "https://keno1se.github.io/hsPWA/assets/icons/favicon-16x16.png",
         "https://keno1se.github.io/hsPWA/assets/icons/favicon-32x32.png",
         "https://keno1se.github.io/hsPWA/assets/icons/icon-128x128.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/icon-144x144.png",
         "https://keno1se.github.io/hsPWA/assets/icons/icon-152x152.png",
         "https://keno1se.github.io/hsPWA/assets/icons/icon-192x192.png",
         "https://keno1se.github.io/hsPWA/assets/icons/icon-384x384.png",
@@ -56,11 +57,7 @@
     {
       "name": "PWA",
       "patterns": [
-        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/main-es2015\\.853589524a036122ee95\\.js",
-        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/runtime-es2015\\.858f8dd898b75fe86926\\.js",
-        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/polyfills-es2015\\.17f81c44c89a5ccb6fd3\\.js",
-        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/styles\\.89ed2bc2c00a475f0d36\\.css",
-        "https:\\/\\/keno1se\\.github\\.io\\/hsPWA\\/assets\\/img\\/SB0011orgsize\\.png"
+        "\\/hsPWA\\/"
       ],
       "strategy": "performance",
       "maxSize": 100,
@@ -76,6 +73,7 @@
     "https://keno1se.github.io/hsPWA/assets/icons/favicon-16x16.png": "08d2f211b2622e8fcabe772b02a71108da1c9257",
     "https://keno1se.github.io/hsPWA/assets/icons/favicon-32x32.png": "770afe6226ec772fa29f63b81333d01911e4b9d9",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-128x128.png": "cad0cd91524147920a676d43a27469f162066e3f",
+    "https://keno1se.github.io/hsPWA/assets/icons/icon-144x144.png": "057fed8555e11c8e0a1904660f4f28a0609b93d3",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-152x152.png": "db0d2da49c855a6a861c0a8ddaa5285af0552780",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-192x192.png": "4ffdcd314f69547f8a41fa7d617734f3a2eecb2b",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-384x384.png": "22aeb51c87d6a079d12405134ab118f72fef14f1",
