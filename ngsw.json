@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568453979901,
+  "timestamp": 1568454394105,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -80,7 +80,7 @@
     "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png": "bc4c67a7e63448f81e755040f06fa673a1078ae2",
     "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png": "238dac1ff27e4ed884072dbc49a1655b46b7542e",
     "https://keno1se.github.io/hsPWA/favicon.ico": "49b45429289064f2436fbc584462b04fac769369",
-    "https://keno1se.github.io/hsPWA/index.html": "90cf08f294f07abaeb07a43dc29fcd418b4adb9b",
+    "https://keno1se.github.io/hsPWA/index.html": "6ba706b82ec30b93ce0b922b9a09be79599c596b",
     "https://keno1se.github.io/hsPWA/main-es2015.853589524a036122ee95.js": "5be717ba1545b3cc874169e3fab4b4afae9c838f",
     "https://keno1se.github.io/hsPWA/main-es5.f07002f85edf9f283333.js": "12acde685ccb5c9cf141ab3a1d46d1f026d2779a",
     "https://keno1se.github.io/hsPWA/polyfills-es2015.17f81c44c89a5ccb6fd3.js": "4578bb107ec3b89d39eb3e9800266ebf8cda1f62",
