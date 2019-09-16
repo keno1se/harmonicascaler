@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568573741865,
+  "timestamp": 1568620727723,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -50,7 +50,9 @@
         "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png",
         "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
