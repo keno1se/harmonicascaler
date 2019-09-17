@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568701799868,
+  "timestamp": 1568702898565,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -38,6 +38,7 @@
         "https://keno1se.github.io/hsPWA/assets/icons/icon-512x512.png",
         "https://keno1se.github.io/hsPWA/assets/icons/icon-72x72.png",
         "https://keno1se.github.io/hsPWA/assets/icons/icon-96x96.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/mstile-150x150.png",
         "https://keno1se.github.io/hsPWA/assets/icons/safari-pinned-tab.svg",
         "https://keno1se.github.io/hsPWA/assets/img/HLOnOffH300V335.png",
         "https://keno1se.github.io/hsPWA/assets/img/SB0011orgsize.png",
@@ -69,6 +70,7 @@
     "https://keno1se.github.io/hsPWA/assets/icons/icon-512x512.png": "a60711c9bbaea00ab2c8bee2dcc287874196afd2",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-72x72.png": "90528afde4a492bbd9b97668e75d1baff16c9d8a",
     "https://keno1se.github.io/hsPWA/assets/icons/icon-96x96.png": "894e19edea1960abbf8d90e065245a4af315f5f4",
+    "https://keno1se.github.io/hsPWA/assets/icons/mstile-150x150.png": "3d6f7cac734488edc425e1d154a253acd1ab2c9e",
     "https://keno1se.github.io/hsPWA/assets/icons/safari-pinned-tab.svg": "42788a32af4daeb202da8fc0af44060072eee253",
     "https://keno1se.github.io/hsPWA/assets/img/HLOnOffH300V335.png": "66c59828007ac5586f821b13f87447d3715d134b",
     "https://keno1se.github.io/hsPWA/assets/img/SB0011orgsize.png": "9a34a008c01172c89dfa9b67b5b9676c93c09f0e",
