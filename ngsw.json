@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1569100204264,
+  "timestamp": 1569100894234,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -9,8 +9,8 @@
       "updateMode": "prefetch",
       "urls": [
         "https://keno1se.github.io/hsPWA/index.html",
-        "https://keno1se.github.io/hsPWA/main-es2015.48e99ff7c091c17860eb.js",
-        "https://keno1se.github.io/hsPWA/main-es5.acc25b281b4c59dcf36c.js",
+        "https://keno1se.github.io/hsPWA/main-es2015.2ae250918f2016c320e6.js",
+        "https://keno1se.github.io/hsPWA/main-es5.edcba724d28d81794771.js",
         "https://keno1se.github.io/hsPWA/polyfills-es2015.17f81c44c89a5ccb6fd3.js",
         "https://keno1se.github.io/hsPWA/polyfills-es5.2795b5d49dcb8251b09a.js",
         "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js",
@@ -26,8 +26,8 @@
       "urls": [
         "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-192x192.png",
         "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-512x512.png",
-        "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-icon-144x144.png",
         "https://keno1se.github.io/hsPWA/assets/icons/android-icon-128x128.png",
+        "https://keno1se.github.io/hsPWA/assets/icons/android-icon-144x144.png",
         "https://keno1se.github.io/hsPWA/assets/icons/android-icon-152x152.png",
         "https://keno1se.github.io/hsPWA/assets/icons/android-icon-192x192.png",
         "https://keno1se.github.io/hsPWA/assets/icons/android-icon-384x384.png",
@@ -59,8 +59,8 @@
   "hashTable": {
     "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-192x192.png": "9526d7e569da652d3f4458ddfe243f092fd2d2a1",
     "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-512x512.png": "884f09f7ea216012e434b7f295b71341b9d64e87",
-    "https://keno1se.github.io/hsPWA/assets/icons/android-chrome-icon-144x144.png": "0a9ca5331802cd790db16589e4d1cc3b2066b20c",
     "https://keno1se.github.io/hsPWA/assets/icons/android-icon-128x128.png": "f53a5a86c128b7fc3b0481a33c3b9986f0231912",
+    "https://keno1se.github.io/hsPWA/assets/icons/android-icon-144x144.png": "0a9ca5331802cd790db16589e4d1cc3b2066b20c",
     "https://keno1se.github.io/hsPWA/assets/icons/android-icon-152x152.png": "0f864aaa95a0c13f7078b9c82a55aaffab08f8ee",
     "https://keno1se.github.io/hsPWA/assets/icons/android-icon-192x192.png": "3fbebb1aea779727a0b5e13d206fc7622600faaa",
     "https://keno1se.github.io/hsPWA/assets/icons/android-icon-384x384.png": "cb51bd8f74c89501e7faa52bfc426dd5e35c5a5e",
@@ -82,9 +82,9 @@
     "https://keno1se.github.io/hsPWA/assets/img/scaleSelectedH300V320.png": "0d60c910533733a0a7b63be79c2812fdf9508f48",
     "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png": "bc4c67a7e63448f81e755040f06fa673a1078ae2",
     "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png": "238dac1ff27e4ed884072dbc49a1655b46b7542e",
-    "https://keno1se.github.io/hsPWA/index.html": "70dc802023766c218b5e84bce45fa02d8b6d4a7e",
-    "https://keno1se.github.io/hsPWA/main-es2015.48e99ff7c091c17860eb.js": "2a3cc4998a9ba3049e37d5785bc7a390a84fa88d",
-    "https://keno1se.github.io/hsPWA/main-es5.acc25b281b4c59dcf36c.js": "b10bd35ef8b1a89f1427c7dc112d5494ab67c18f",
+    "https://keno1se.github.io/hsPWA/index.html": "baf254f9449efcfa452f4e701673dbf6599a9e41",
+    "https://keno1se.github.io/hsPWA/main-es2015.2ae250918f2016c320e6.js": "1e26417997927559bbbba30d62b1b72782851bc7",
+    "https://keno1se.github.io/hsPWA/main-es5.edcba724d28d81794771.js": "308b623526b8e7459e8e12808dc7d7c0ada69323",
     "https://keno1se.github.io/hsPWA/polyfills-es2015.17f81c44c89a5ccb6fd3.js": "4578bb107ec3b89d39eb3e9800266ebf8cda1f62",
     "https://keno1se.github.io/hsPWA/polyfills-es5.2795b5d49dcb8251b09a.js": "042d7744ef82a64c73310f1db253736731a03950",
     "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
