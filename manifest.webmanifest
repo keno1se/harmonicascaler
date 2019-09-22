@@ -11,14 +11,14 @@
   "icons": [
     {
       "src": "assets/icons/android-chrome-192x192.png",
-      "height": "192",
+      "height": "auto",
       "width": "192",
       "type": "image/png"
     },
     {
       "src": "assets/icons/android-chrome-512x512.png",
       "height": "512",
-      "width": "512",
+      "width": "auto",
       "type": "image/png"
     },    
     {
