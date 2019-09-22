@@ -11,16 +11,19 @@
   "icons": [
     {
       "src": "assets/icons/android-chrome-192x192.png",
-      "sizes": "auto",
+      "height": "192",
+      "width": "192",
       "type": "image/png"
     },
     {
       "src": "assets/icons/android-chrome-512x512.png",
-      "sizes": "auto",
+      "height": "512",
+      "width": "512",
       "type": "image/png"
     },    
     {
-      "src": "assets/icons/apple-touch-icon.png"
+      "src": "assets/icons/apple-touch-icon.png",
+      "sizes": "180x180"
     },
     {
       "src": "assets/icons/favicon-16x16.png",
