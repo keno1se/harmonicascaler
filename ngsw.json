@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1569141898114,
+  "timestamp": 1569142193195,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://keno1se.github.io/hsPWA/favicon.ico",
         "https://keno1se.github.io/hsPWA/index.html",
-        "https://keno1se.github.io/hsPWA/main-es2015.aa96f2083567b48daf7c.js",
-        "https://keno1se.github.io/hsPWA/main-es5.390d7b6a49b486a178c5.js",
+        "https://keno1se.github.io/hsPWA/main-es2015.ae97866aa7b1de421699.js",
+        "https://keno1se.github.io/hsPWA/main-es5.14b66d594f6a5a1090d1.js",
         "https://keno1se.github.io/hsPWA/polyfills-es2015.17f81c44c89a5ccb6fd3.js",
         "https://keno1se.github.io/hsPWA/polyfills-es5.2795b5d49dcb8251b09a.js",
         "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js",
@@ -82,9 +82,9 @@
     "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png": "bc4c67a7e63448f81e755040f06fa673a1078ae2",
     "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png": "238dac1ff27e4ed884072dbc49a1655b46b7542e",
     "https://keno1se.github.io/hsPWA/favicon.ico": "3247ffd4b066121c9dd1bb7fa778d64e95f701f2",
-    "https://keno1se.github.io/hsPWA/index.html": "dda8e5e1a6d12211e0bb0348d186a5f5761d13c5",
-    "https://keno1se.github.io/hsPWA/main-es2015.aa96f2083567b48daf7c.js": "040107098d258abff739812051bbb12a9992a7a7",
-    "https://keno1se.github.io/hsPWA/main-es5.390d7b6a49b486a178c5.js": "2c3e41cf548365e2da323c83d81d45c97b6e759d",
+    "https://keno1se.github.io/hsPWA/index.html": "dcada032484eea65a92539d274c8a51c29949633",
+    "https://keno1se.github.io/hsPWA/main-es2015.ae97866aa7b1de421699.js": "eefd5524a8bada480723b55c36609fbd1ec789cc",
+    "https://keno1se.github.io/hsPWA/main-es5.14b66d594f6a5a1090d1.js": "320007110a7f1dd2356985d6af53cc80cca35937",
     "https://keno1se.github.io/hsPWA/polyfills-es2015.17f81c44c89a5ccb6fd3.js": "4578bb107ec3b89d39eb3e9800266ebf8cda1f62",
     "https://keno1se.github.io/hsPWA/polyfills-es5.2795b5d49dcb8251b09a.js": "042d7744ef82a64c73310f1db253736731a03950",
     "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
