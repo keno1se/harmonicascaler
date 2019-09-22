@@ -57,9 +57,9 @@
       "type": "image/png"
     },
     {
-      "src": "assets/icons/android-icon-144x144.gif",
+      "src": "assets/icons/android-icon-144x144.png",
       "sizes": "144x144",
-      "type": "image/gif"
+      "type": "image/png"
     },
     {
       "src": "assets/icons/android-icon-152x152.png",
