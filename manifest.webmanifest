@@ -11,7 +11,8 @@
   "icons": [
     {
       "src": "assets/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "height": "192",
+      "width": "192",
       "type": "image/png"
     },
     {
