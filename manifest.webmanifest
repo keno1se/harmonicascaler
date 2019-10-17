@@ -6,6 +6,7 @@
   "background_color": "#f3ad11",
   "display": "standalone",
   "orientation": "any",
+  "scope": "https://github.com/keno1se/hsPWA/tree/gh-pages/assets/icons",
   "start_url": "https://keno1se.github.io/hsPWA/",
   "icons": [
     {
