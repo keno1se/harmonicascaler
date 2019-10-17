@@ -6,6 +6,7 @@
   "background_color": "#f3ad11",
   "display": "standalone",
   "orientation": "any",
+  "scope": "https://keno1se.github.io/hsPWA/",
   "start_url": "https://keno1se.github.io/hsPWA/",
   "icons": [
     {
@@ -60,9 +61,9 @@
       "type": "blop"
     },
     {
-      "src": "assets/icons/icon-152x152.png",
+      "src": "assets/icons/icon-152x152.png?raw=true",
       "sizes": "152x152",
-      "type": "image/png"
+      "type": "blop"
     },
     {
       "src": "assets/icons/icon-192x192.png",
