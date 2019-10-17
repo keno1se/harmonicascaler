@@ -6,13 +6,12 @@
   "background_color": "#f3ad11",
   "display": "standalone",
   "orientation": "any",
-  "scope": "https://keno1se.github.io/hsPWA/",
   "start_url": "https://keno1se.github.io/hsPWA/",
   "icons": [
     {
       "src": "assets/icons/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "blop"
+      "type": "image/png"
     },
     {
       "src": "assets/icons/android-chrome-512x512.png",
@@ -58,7 +57,7 @@
     {
       "src": "assets/icons/icon-144x144.png?raw=true",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "blop"
     },
     {
       "src": "assets/icons/icon-152x152.png",
