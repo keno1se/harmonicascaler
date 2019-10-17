@@ -67,7 +67,7 @@
       "type": "blop"
     },
     {
-      "src": "assets/icons/icon-192x192.png?raw=true",
+      "src": "assets/icons/icon-192x192.png?raw=false",
       "sizes": "192x192",
       "type": "blop"
     },
