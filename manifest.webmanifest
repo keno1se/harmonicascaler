@@ -20,8 +20,9 @@
       "type": "image/png"
     },    
     {
-      "src": "assets/icons/apple-touch-icon.png",
-      "sizes": "180x180"
+      "src": "assets/icons/apple-touch-icon.png?raw=true",
+      "sizes": "180x180",
+      "type": "blop"
     },
     {
       "src": "assets/icons/favicon-16x16.png",
