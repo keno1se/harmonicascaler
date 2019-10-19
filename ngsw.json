@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1571504660879,
+  "timestamp": 1571508042253,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "https://keno1se.github.io/hsPWA/polyfills-es5.f83dabc02568e95d32f5.js",
         "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js",
         "https://keno1se.github.io/hsPWA/runtime-es5.741402d1d47331ce975c.js",
-        "https://keno1se.github.io/hsPWA/styles.77a3bccd2bbc24399064.css"
+        "https://keno1se.github.io/hsPWA/styles.ab1db849f74173344230.css"
       ],
       "patterns": []
     },
@@ -47,7 +47,8 @@
         "https://keno1se.github.io/hsPWA/assets/img/posposH300V300.png",
         "https://keno1se.github.io/hsPWA/assets/img/scaleSelectedH300V320.png",
         "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png",
-        "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png"
+        "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png",
+        "https://keno1se.github.io/hsPWA/icon-96x96.92d307ad275f1c584636.png"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
@@ -80,14 +81,15 @@
     "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png": "bc4c67a7e63448f81e755040f06fa673a1078ae2",
     "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png": "238dac1ff27e4ed884072dbc49a1655b46b7542e",
     "https://keno1se.github.io/hsPWA/favicon.ico": "3247ffd4b066121c9dd1bb7fa778d64e95f701f2",
-    "https://keno1se.github.io/hsPWA/index.html": "3ae6482ab5dd2a849cf3702f1e9fa85a0063dc49",
+    "https://keno1se.github.io/hsPWA/icon-96x96.92d307ad275f1c584636.png": "894e19edea1960abbf8d90e065245a4af315f5f4",
+    "https://keno1se.github.io/hsPWA/index.html": "daa212d342aec2f832541307b1de9f4924f5d8f2",
     "https://keno1se.github.io/hsPWA/main-es2015.0aab2068d0debd797d49.js": "9acbae832bec375e7b21c01e63f228b01f8513e4",
     "https://keno1se.github.io/hsPWA/main-es5.fb07c837365187ba13ce.js": "46b0651ef5b5513b2fc3a12114d8f52cf2e9af87",
     "https://keno1se.github.io/hsPWA/polyfills-es2015.4cb876d17f8a3c1cd5c1.js": "499d3a0263f3a08e48f3fa793b9d6a7039c142c9",
     "https://keno1se.github.io/hsPWA/polyfills-es5.f83dabc02568e95d32f5.js": "ad51e968ff2e98320e41064fcf86651d0ba0ba22",
     "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://keno1se.github.io/hsPWA/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://keno1se.github.io/hsPWA/styles.77a3bccd2bbc24399064.css": "3a2bef692073d26d59d3622dc92f98375518ebc1"
+    "https://keno1se.github.io/hsPWA/styles.ab1db849f74173344230.css": "81bb1cb24e459eec9c834e8bad5ce584829615c6"
   },
   "navigationUrls": [
     {
