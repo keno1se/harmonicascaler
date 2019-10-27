@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572178889449,
+  "timestamp": 1572179414820,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "https://keno1se.github.io/hsPWA/polyfills-es5.6015d9f4f83b7119dd42.js",
         "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js",
         "https://keno1se.github.io/hsPWA/runtime-es5.741402d1d47331ce975c.js",
-        "https://keno1se.github.io/hsPWA/styles.b6215014ddc787520f9d.css"
+        "https://keno1se.github.io/hsPWA/styles.90a5cb7a1dc696ca6c1d.css"
       ],
       "patterns": []
     },
@@ -80,14 +80,14 @@
     "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png": "bc4c67a7e63448f81e755040f06fa673a1078ae2",
     "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png": "238dac1ff27e4ed884072dbc49a1655b46b7542e",
     "https://keno1se.github.io/hsPWA/favicon.ico": "3247ffd4b066121c9dd1bb7fa778d64e95f701f2",
-    "https://keno1se.github.io/hsPWA/index.html": "1d705670dc746bac67287def40fd98a5062a128d",
+    "https://keno1se.github.io/hsPWA/index.html": "d1f0a860fc1cc120f5b84aa62e5817cefee18ba3",
     "https://keno1se.github.io/hsPWA/main-es2015.6386db4d19654e2d4013.js": "0fd1b8f988557317af2782abb603963eb0992ce7",
     "https://keno1se.github.io/hsPWA/main-es5.56b8342b080684d3a924.js": "69c95aae71ddabaee3d5874409e98ba15b9b5e37",
     "https://keno1se.github.io/hsPWA/polyfills-es2015.9b510324f206a2ed0597.js": "4100b72fe121e2418d31710ef0e14e7821ed3266",
     "https://keno1se.github.io/hsPWA/polyfills-es5.6015d9f4f83b7119dd42.js": "4d2006c223254f767b78a45305995ff4b1c75363",
     "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://keno1se.github.io/hsPWA/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://keno1se.github.io/hsPWA/styles.b6215014ddc787520f9d.css": "57a7383490e1daf063251069e0e2db2525c75028"
+    "https://keno1se.github.io/hsPWA/styles.90a5cb7a1dc696ca6c1d.css": "b5c282d6add5267beb26d1f29fc9a10a5372c111"
   },
   "navigationUrls": [
     {
