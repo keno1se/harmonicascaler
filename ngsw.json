@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572180000896,
+  "timestamp": 1572180221691,
   "index": "https://keno1se.github.io/hsPWA/index.html",
   "assetGroups": [
     {
@@ -10,13 +10,13 @@
       "urls": [
         "https://keno1se.github.io/hsPWA/favicon.ico",
         "https://keno1se.github.io/hsPWA/index.html",
-        "https://keno1se.github.io/hsPWA/main-es2015.9050d8012227c5d8785a.js",
-        "https://keno1se.github.io/hsPWA/main-es5.9a4ee13d8443ef2f00af.js",
+        "https://keno1se.github.io/hsPWA/main-es2015.aee20b0de91081b43895.js",
+        "https://keno1se.github.io/hsPWA/main-es5.30f711dac619b206bc7c.js",
         "https://keno1se.github.io/hsPWA/polyfills-es2015.9b510324f206a2ed0597.js",
         "https://keno1se.github.io/hsPWA/polyfills-es5.6015d9f4f83b7119dd42.js",
         "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js",
         "https://keno1se.github.io/hsPWA/runtime-es5.741402d1d47331ce975c.js",
-        "https://keno1se.github.io/hsPWA/styles.90a5cb7a1dc696ca6c1d.css"
+        "https://keno1se.github.io/hsPWA/styles.b6215014ddc787520f9d.css"
       ],
       "patterns": []
     },
@@ -80,14 +80,14 @@
     "https://keno1se.github.io/hsPWA/assets/img/selScaleMenuH300V335.png": "bc4c67a7e63448f81e755040f06fa673a1078ae2",
     "https://keno1se.github.io/hsPWA/assets/img/thirdW300H287.png": "238dac1ff27e4ed884072dbc49a1655b46b7542e",
     "https://keno1se.github.io/hsPWA/favicon.ico": "3247ffd4b066121c9dd1bb7fa778d64e95f701f2",
-    "https://keno1se.github.io/hsPWA/index.html": "d8ab2c1920ffe10c07b92474f6b2ed997f3d1df4",
-    "https://keno1se.github.io/hsPWA/main-es2015.9050d8012227c5d8785a.js": "0ba83bccda1e2fc39d53adf9b1bf38ab1073de84",
-    "https://keno1se.github.io/hsPWA/main-es5.9a4ee13d8443ef2f00af.js": "9180f244e8e57514e634cd385301183dd7f1a7b3",
+    "https://keno1se.github.io/hsPWA/index.html": "358bda24fd8ec32d6f1cd596521fd8f4f68cf359",
+    "https://keno1se.github.io/hsPWA/main-es2015.aee20b0de91081b43895.js": "098e34bd5df46753e642c4a2140e1ea2b7a5e2b7",
+    "https://keno1se.github.io/hsPWA/main-es5.30f711dac619b206bc7c.js": "3fd8f912650b8284779d25451ae2ec6a5a854fc6",
     "https://keno1se.github.io/hsPWA/polyfills-es2015.9b510324f206a2ed0597.js": "4100b72fe121e2418d31710ef0e14e7821ed3266",
     "https://keno1se.github.io/hsPWA/polyfills-es5.6015d9f4f83b7119dd42.js": "4d2006c223254f767b78a45305995ff4b1c75363",
     "https://keno1se.github.io/hsPWA/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://keno1se.github.io/hsPWA/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://keno1se.github.io/hsPWA/styles.90a5cb7a1dc696ca6c1d.css": "b5c282d6add5267beb26d1f29fc9a10a5372c111"
+    "https://keno1se.github.io/hsPWA/styles.b6215014ddc787520f9d.css": "57a7383490e1daf063251069e0e2db2525c75028"
   },
   "navigationUrls": [
     {
