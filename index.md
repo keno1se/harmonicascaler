@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>HarmonicaScaler</title>
+  <!-- <base href="https://keno1se.github.io/harmonicascaler/"> -->
+
+  <meta name="Description" content="This is a link page towards HarmonicaScaler on Google play">  
+  <meta name="keywords" content="ceno, Ceno, cenoapps, CenoApps, cenoApps, keno1se, harmonicascaler">
+  <meta name="author" content="keno1se@yahoo.se">
+  
+  
+
+  <h1>HarmonicaScaler by CenoApps</h1>
+  
+  <br>
+  
+  <p>This is a link page towards HarmonicaScaler on Google play</p>
+
+  <br> 
+  
+  <p>Find HarmonicaScaler app on Google play with this link:</p>
+  
+  <br>
+
+  <a href="https://play.google.com/store/apps/details?id=keno1se.github.io.free&gl=US" alt="link to HarmonicaScaler">https://play.google.com/store/apps/details?id=keno1se.github.io.free&gl=US</a>
+
+  <!--   <link href="https://play.google.com/store/apps/details?id=keno1se.github.io.free&gl=US"> -->
+
+
+</html>
+
