@@ -11,7 +11,7 @@ To do this see the below present setup
 2. ***config.yml** - over ride default.html standard settings  
 3. ***index.md*** - empty but needed to render  
 
-# To re*nder hsPWA - harmonicascaler  
+# To render hsPWA - harmonicascaler  
 Remover First_ from this  
 First_index.html  
 and leave it just to this:  
