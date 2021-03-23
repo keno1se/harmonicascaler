@@ -19,7 +19,8 @@
       <header>
         
         <!-- This will render harmonicascaler and under test PWA -->
-        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
+        <!-- Need this to show title but can be overrided in _config.yml -->
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
